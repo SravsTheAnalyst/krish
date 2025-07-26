@@ -1,2 +1,2 @@
-this is firrst line
+this is first line
 this is second line
